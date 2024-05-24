@@ -33,9 +33,9 @@ Problem-Solving and Critical Thinking
 <div>
 
 ### Languages:
-| Python | C | 
+| Python | C++ | 
 |----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/hina-ghani/hina-ghani/blob/main/ISO_C%2B%2B_Logo.svg.png" title="C++"  alt="C++" width="55" height="55"/> |  
 
   
 
