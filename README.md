@@ -6,7 +6,7 @@
   
 ### About Me:    
 
-I am passionate about leveraging data to drive strategic decisions and optimise processes. I have equipped myself with a robust foundation in programming, statistical analysis, and data management. I am particularly drawn to the field of data analysis, where I can combine my technical skills with my analytical mindset to uncover insights and contribute to impactful solutions.
+A 21 year old Data Analyst passionate about leveraging data to drive strategic decisions and to optimise processes. I have equipped myself with a robust foundation in programming, statistical analysis, and data management. I am particularly drawn to the field of data analysis, where I can combine my technical skills with my analytical mindset to uncover insights and contribute to impactful solutions.
 
 I have gained proficiency in programming languages such as C++, Python and SQL, and have utilised tools like MS Excel, MySQL Workbench and MS Power BI to visualise and interpret data. I am currently delving into the realms of Machine Learning algorithms and Data Mining techniques.
 
